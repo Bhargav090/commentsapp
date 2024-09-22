@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277858909",
+    "project_id": "reactflutter-3aa72",
+    "storage_bucket": "reactflutter-3aa72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277858909:android:5b5eab737eaf846cbc5bb4",
+        "android_client_info": {
+          "package_name": "com.example.commentsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXy26a9LB79B7EWJG9_qWC2gneK5OSrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277858909:android:470d782987f9f23cbc5bb4",
+        "android_client_info": {
+          "package_name": "com.example.hygwellapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXy26a9LB79B7EWJG9_qWC2gneK5OSrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
