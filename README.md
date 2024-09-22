@@ -17,6 +17,6 @@ A Flutter project that demonstrates user authentication, Firebase integration, a
 
 ## APK Download
 
-You can download and install the app on your Android device from the following link:
+You can download and install the app on your device from the following link:
 
 [Download APK](https://drive.google.com/file/d/1RtmZXEm7g17iJYUovOUUFbahhzljIiqG/view?usp=sharing)
